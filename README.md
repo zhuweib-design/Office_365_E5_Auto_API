@@ -1,4 +1,4 @@
-# AutoApiSecret-加密版
+# AutoApiSecret-加密版COPY
 
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
 
